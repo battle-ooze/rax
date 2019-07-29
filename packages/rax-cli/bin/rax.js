@@ -135,10 +135,6 @@ function askProjectInformaction(name, verbose) {
         {
           name: 'Component (Build component for universal application include web)',
           value: 'component'
-        },
-        {
-          name: 'Rax UI Component (For Build Rax UI Component)',
-          value: 'rax-ui-component'
         }
       ],
       default: 'univeraslapp'

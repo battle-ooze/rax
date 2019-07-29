@@ -21,11 +21,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": false,
     "noImplicitAny": false,
-    "noImplicitThis": false,
-    "typeRoots": ["node_modules/@rax-types", "node_modules/@types"],
-    "paths": {
-      "rax": ["node_modules/@rax-types/rax"]
-    }
+    "noImplicitThis": false
   },
   "include": ["src/**/*"],
   "exclude": ["**/__tests__"]
